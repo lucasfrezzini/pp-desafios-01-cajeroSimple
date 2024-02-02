@@ -1,0 +1,11 @@
+{
+  "name": "001-cajerosimple",
+  "version": "1.0.0",
+  "description": "Modulos optativos de práctica",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pp-01 / Frezzini",
+  "license": "MIT"
+}
